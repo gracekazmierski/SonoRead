@@ -28,7 +28,3 @@ Craft the perfect soundtrack for your favorite books.
 -   **Tipping:** Allow users to "tip" the creators of their favorite playlists.
 -   **Author Partnerships:** Collaborate with authors to feature "official" playlists for their books.
 -   **Advanced Filtering:** Filter playlists by mood tags, genres, or specific characters.
-
-## Author
-
--   **[Gracekazmierski]** - [https://github.com/gracekazmierski]([https://github.com/gracekazmierski](https://github.com/gracekazmierski))
