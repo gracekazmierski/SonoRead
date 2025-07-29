@@ -31,4 +31,4 @@ Craft the perfect soundtrack for your favorite books.
 
 ## Author
 
--   **[Gracekazmierski]** - [your-github-profile-link]([https://github.com/gracekazmierski](https://github.com/gracekazmierski))
+-   **[Gracekazmierski]** - [https://github.com/gracekazmierski]([https://github.com/gracekazmierski](https://github.com/gracekazmierski))
